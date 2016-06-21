@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--搜索输入框-->
+    <declare-styleable name="SearchEdit">
+        <attr name="is_left" format="boolean" />
+    </declare-styleable>
+
+
+    <declare-styleable name="ChangeColorIconView">
+        <attr name="change_icon" format="reference"/>
+        <attr name="change_color" format="color"/>
+        <attr name="change_text" format="string"/>
+        <attr name="change_text_size" format="dimension"/>
+    </declare-styleable>
+
+</resources>

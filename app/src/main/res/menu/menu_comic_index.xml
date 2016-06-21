@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ComicIndexActivity">
+
+    <item android:id="@+id/comic_search"
+        android:title="搜索"
+        android:orderInCategory="80"
+        android:icon="@drawable/comic_search_icon"
+        app:showAsAction="ifRoom" />
+</menu>
